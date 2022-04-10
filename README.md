@@ -44,6 +44,22 @@ expect(**spy**).toHaveBeenCalledWith(**...arguments**);
 
 <hr>
 
+### Outcome of testing...
+
+#### Command line:
+<div align="center">
+
+  ![Screenshot 2022-04-10 at 19 25 37](https://user-images.githubusercontent.com/43299285/162631721-b2f5728b-3757-423b-ba76-909fb5e69d5f.png)
+
+</div>
+
+#### Browser:
+<div align="center">
+
+  ![Screenshot 2022-04-10 at 19 27 52](https://user-images.githubusercontent.com/43299285/162631794-0fd62c44-a213-4e67-a603-2aaf746980fb.png)
+
+</div>
+
 ### Installing...
 * `git clone https://github.com/JoseMMorales/Angular-Material-FlexLayout.git`
 * `cd Jasmine-Karma-Angular`
