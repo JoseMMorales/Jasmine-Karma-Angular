@@ -26,9 +26,4 @@ describe('AppComponent', () => {
   it('should create the app', () => {
     expect(appComponent).toBeTruthy();
   });
-
-  it(`should have as title 'Jasmine'`, () => {
-    expect(appComponent.title).toEqual('Jasmine');
-  });
-
 });
