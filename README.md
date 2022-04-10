@@ -1,3 +1,9 @@
+<div align="center">
+
+  ![Screenshot 2022-04-10 at 19 39 35](https://user-images.githubusercontent.com/43299285/162632186-899570bf-c222-4a2b-8be2-dc083760760c.png)
+
+</div>
+
 ## Jasmine-Karma-Angular
 Hands-on practice where App, component and Services are tested using [Jasmine](https://jasmine.github.io/) following behavior-driven development methodology written in JavaScript code. Two of the most valuable things in this framework is that DOM is not required to run the tests, and the syntax is clean and understandable. Automation of testing tasks in the environment has been done by [Karma](https://karma-runner.github.io/latest/index.html) as test-runner, where results are displayed either through command line or the browser.
 
